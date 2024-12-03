@@ -52,7 +52,7 @@ I'm a passionate **Data Engineer Consultant** with over 5 years of experience in
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Kalpesh Naik]([https://linkedin.com/in/kalpesh-naik](https://www.linkedin.com/in/kalpesh-naik-20ab28190))  
+- **LinkedIn**: [Kalpesh Naik](https://www.linkedin.com/in/kalpesh-naik-20ab28190)  
 - **GitHub**: You're already here! 🚀  
 - **Email**: [kalpeshsnaik09@gmail.com](mailto:kalpeshsnaik09@gmail.com)  
 
